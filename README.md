@@ -45,6 +45,5 @@ If java is installed it will return the current version of java otherwise if not
 - Then again go to 'cmd' and type 'java --version'
 - And Installation is Done
 
-![image](https://github.com/Ayus0721/JAVA/assets/147092631/bacdb752-773f-4952-8886-230c37dfd988)
-
+  <img src="https://media1.tenor.com/m/CW3dv0a1Hf4AAAAC/mission-complete-spongebob.gif"/>
 
