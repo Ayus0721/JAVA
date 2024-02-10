@@ -1,6 +1,7 @@
 # HOW TO INSTALL JAVA
 
-Some System may have java installed to check do this 
+Some System may have java installed.
+To check do this:
 - search 'cmd'
 - type "java --version"
 
