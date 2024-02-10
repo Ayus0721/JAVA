@@ -48,3 +48,21 @@ If java is installed it will return the current version of java otherwise if not
 
   <img src="https://media1.tenor.com/m/CW3dv0a1Hf4AAAAC/mission-complete-spongebob.gif"/>
 
+
+# HOW DOES A CODE WORKS IN JAVA
+
+
+![image](https://github.com/Ayus0721/JAVA/assets/147092631/1074b3e4-f838-4b2d-aa62-9bb79c438107)
+
+The image provided above tells that there  is three things which comes in use while runing a code in java 
+- JDK Java Development Kit
+- JRE Java Runtime Environment 
+- JVM Java Virtual Machine
+
+
+
+
+
+
+
+  
