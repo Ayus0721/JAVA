@@ -11,7 +11,7 @@ If java is installed it will return the current version of java otherwise if not
 
 ![image](https://github.com/Ayus0721/JAVA/assets/147092631/b86fce90-1245-4c3d-95f5-000d0f7642d2)
 
-- Select the first link 
+- Select the first link from "Oracle" 
 
 - # Download occurding to your system ( Windows, MAC or linux)
   ![image](https://github.com/Ayus0721/JAVA/assets/147092631/ddfb1fd8-cb22-41d1-a7af-31758af0a8b4)
