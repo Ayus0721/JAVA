@@ -1,5 +1,7 @@
 # HOW TO INSTALL JAVA
 
+-  Java is exceptionally versatile, being used across many different industries and operating systems—and the Android operating system is based on it
+
 Some System may have java installed.
 To check do this:
 - search 'cmd'
@@ -59,7 +61,16 @@ The image provided above tells that there  is three things which comes in use wh
 - JRE Java Runtime Environment 
 - JVM Java Virtual Machine
 
+# 1) COMPILATION   
 
+- The source code gets compiled by compiler present inside JDK
+- And the compiler converts it into Byte code
+- <b>NOTE: This Byte code can run on any operating system as long as that system have JRE. This is not possible in C++<br> That is why Java is portable language. </b> 
+
+    
+# 2) EXECUTION 
+
+-  
 
 
 
