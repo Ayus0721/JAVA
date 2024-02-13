@@ -73,6 +73,10 @@ The image provided above tells that there  is three things which comes in use wh
 - The Byte code gets converted into Native language (ie. 0 OR 1 )
 - This process is done by JVM(Java Virtual Machine .
 
+# BOILERPLATE CODE
+
+- Boilerplate code can be essential for getting started with a new project, providing a foundation, or ensuring consistency across different parts of a codebase.
+- In software development, boilerplate code often includes repetitive code for tasks such as setting up configurations, error handling, defining data structures, or implementing standard functionalities.
 
 
 
