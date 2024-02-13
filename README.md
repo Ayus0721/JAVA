@@ -70,7 +70,10 @@ The image provided above tells that there  is three things which comes in use wh
     
 # 2) EXECUTION 
 
--  
+- The Byte code gets converted into Native language (ie. 0 OR 1 )
+- This process is done by JVM(Java Virtual Machine .
+
+
 
 
 
