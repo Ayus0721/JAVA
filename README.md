@@ -82,7 +82,7 @@ The image provided above tells that there  is three things which comes in use wh
 
 # Now Let's run your first command in JAVA
 
--
+
  ![image](https://github.com/Ayus0721/JAVA/assets/147092631/475ba8fd-2b0a-4849-9a4c-abf5bbb535d5)
 
  - This is how programs looks for printing **hello world** or anything else.
