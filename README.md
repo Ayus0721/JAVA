@@ -80,18 +80,5 @@ The image provided above tells that there  is three things which comes in use wh
 - Boilerplate code can be essential for getting started with a new project, providing a foundation, or ensuring consistency across different parts of a codebase.
 - In software development, boilerplate code often includes repetitive code for tasks such as setting up configurations, error handling, defining data structures, or implementing standard functionalities.
 
-# Now Let's run your first command in JAVA
-
-
- ![image](https://github.com/Ayus0721/JAVA/assets/147092631/475ba8fd-2b0a-4849-9a4c-abf5bbb535d5)
-
- - This is how programs looks for printing **hello world** or anything else.
- - In Line 1 we are Making a Class called by 'Hello'.
- - **Note** : Always save the file with *.java* Extension and Save the filename with as same as Class name.
-
-
-
-
-
 
   
