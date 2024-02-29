@@ -89,7 +89,6 @@ The image provided above tells that there  is three things which comes in use wh
  - In Line 1 we are Making a Class called by 'Hello'.
  - **Note** : Always save the file with *.java* Extension and Save the filename with as same as Class name.
 
- - 
 
 
 
