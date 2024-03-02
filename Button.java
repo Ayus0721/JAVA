@@ -6,16 +6,15 @@ public class Button {
         System.out.println("Enter a number ");
         int Button = sc.nextInt();
 
-        if (Button == 1){
-            System.out.println("Hello");
-        }else if (Button == 2){
-            System.out.println("Namaste");
-        }else if (Button == 3){
-            System.out.println("Tasla Master");
-        }
-
-        else{
-            System.out.println("Invalid Number");
+       switch (Button) {
+            case 1: System.out.println("Hello");
+            break;
+            case 2: System.out.println("namaste");
+            break;
+            case 3: System.out.println("khajoor khaoge ?");
+            break;
+            default : System.out.println("Please enter valid number");
+            
         }
     }
 }
