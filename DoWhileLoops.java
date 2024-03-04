@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class ForLoops {
+public class DoWhileLoops {
     public static void main(String[] args) {
 
         int i = 0;
