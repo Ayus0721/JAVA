@@ -12,38 +12,29 @@ public class Diamond {
             //upper half
 
             //for spaces
-            for(int j= 1; j<=row-i;j++){
+            for(int j=1; j<=row-i;j++){
                 System.out.print(" ");
 
             }
-            //first part of star
-            for(int j=1;j<=i;j++){
-                System.out.print("*");
-            }
-            //second part of star
-            for(int j=2;j<=i;j++){
+            for (int j=0; j<=2*(i-1); j++){
                 System.out.print("*");
             } 
             System.out.println();
         }
-        for(int i=1;i<=row;i++){
-            //lower half
-            //for spaces
-            for(int j=2; j<=i;j++){
-                System.out.print(" ");
-            }
+
+        //lower half
+        for(int i=row;i>=1;i--){
             
-            //stars for lower part 
+            //for spaces
             for(int j=1; j<=row-i;j++){
-                System.out.print("*");
-            }
+                System.out.print(" ");
 
-            //for second part stars
-
-            for(int j=0;j<=row-i;j++){
-                System.out.print("*");
             }
+            for (int j=0; j<=2*(i-1); j++){
+                System.out.print("*");
+            } 
             System.out.println();
+            
         }
     }
 }
